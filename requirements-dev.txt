@@ -1,5 +1,6 @@
 pytest
 pytest-cov
+pytest-benchmark
 towncrier
 sphinx
 flake8
